@@ -1,0 +1,17 @@
+F:\Recent Work\Testing_Project\BookingApp.ApplicationLayer\bin\Debug\net8.0\BookingApp.ApplicationLayer.deps.json
+F:\Recent Work\Testing_Project\BookingApp.ApplicationLayer\bin\Debug\net8.0\BookingApp.ApplicationLayer.dll
+F:\Recent Work\Testing_Project\BookingApp.ApplicationLayer\bin\Debug\net8.0\BookingApp.ApplicationLayer.pdb
+F:\Recent Work\Testing_Project\BookingApp.ApplicationLayer\bin\Debug\net8.0\BookingApp.Domain.dll
+F:\Recent Work\Testing_Project\BookingApp.ApplicationLayer\bin\Debug\net8.0\BookingApp.Infastructure.dll
+F:\Recent Work\Testing_Project\BookingApp.ApplicationLayer\bin\Debug\net8.0\BookingApp.Domain.pdb
+F:\Recent Work\Testing_Project\BookingApp.ApplicationLayer\bin\Debug\net8.0\BookingApp.Infastructure.pdb
+F:\Recent Work\Testing_Project\BookingApp.ApplicationLayer\obj\Debug\net8.0\BookingApp.ApplicationLayer.csproj.AssemblyReference.cache
+F:\Recent Work\Testing_Project\BookingApp.ApplicationLayer\obj\Debug\net8.0\BookingApp.ApplicationLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\Recent Work\Testing_Project\BookingApp.ApplicationLayer\obj\Debug\net8.0\BookingApp.ApplicationLayer.AssemblyInfoInputs.cache
+F:\Recent Work\Testing_Project\BookingApp.ApplicationLayer\obj\Debug\net8.0\BookingApp.ApplicationLayer.AssemblyInfo.cs
+F:\Recent Work\Testing_Project\BookingApp.ApplicationLayer\obj\Debug\net8.0\BookingApp.ApplicationLayer.csproj.CoreCompileInputs.cache
+F:\Recent Work\Testing_Project\BookingApp.ApplicationLayer\obj\Debug\net8.0\BookingApp.ApplicationLayer.csproj.CopyComplete
+F:\Recent Work\Testing_Project\BookingApp.ApplicationLayer\obj\Debug\net8.0\BookingApp.ApplicationLayer.dll
+F:\Recent Work\Testing_Project\BookingApp.ApplicationLayer\obj\Debug\net8.0\refint\BookingApp.ApplicationLayer.dll
+F:\Recent Work\Testing_Project\BookingApp.ApplicationLayer\obj\Debug\net8.0\BookingApp.ApplicationLayer.pdb
+F:\Recent Work\Testing_Project\BookingApp.ApplicationLayer\obj\Debug\net8.0\ref\BookingApp.ApplicationLayer.dll

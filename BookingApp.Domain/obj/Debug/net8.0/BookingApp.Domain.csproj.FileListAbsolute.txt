@@ -1,0 +1,11 @@
+F:\Recent Work\Testing_Project\BookingApp.Domain\bin\Debug\net8.0\BookingApp.Domain.deps.json
+F:\Recent Work\Testing_Project\BookingApp.Domain\bin\Debug\net8.0\BookingApp.Domain.dll
+F:\Recent Work\Testing_Project\BookingApp.Domain\bin\Debug\net8.0\BookingApp.Domain.pdb
+F:\Recent Work\Testing_Project\BookingApp.Domain\obj\Debug\net8.0\BookingApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Recent Work\Testing_Project\BookingApp.Domain\obj\Debug\net8.0\BookingApp.Domain.AssemblyInfoInputs.cache
+F:\Recent Work\Testing_Project\BookingApp.Domain\obj\Debug\net8.0\BookingApp.Domain.AssemblyInfo.cs
+F:\Recent Work\Testing_Project\BookingApp.Domain\obj\Debug\net8.0\BookingApp.Domain.csproj.CoreCompileInputs.cache
+F:\Recent Work\Testing_Project\BookingApp.Domain\obj\Debug\net8.0\BookingApp.Domain.dll
+F:\Recent Work\Testing_Project\BookingApp.Domain\obj\Debug\net8.0\refint\BookingApp.Domain.dll
+F:\Recent Work\Testing_Project\BookingApp.Domain\obj\Debug\net8.0\BookingApp.Domain.pdb
+F:\Recent Work\Testing_Project\BookingApp.Domain\obj\Debug\net8.0\ref\BookingApp.Domain.dll
